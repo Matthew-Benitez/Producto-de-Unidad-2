@@ -9,6 +9,12 @@
       
 2. MARCO TEÓRICO
 
+![0001 (2)](https://user-images.githubusercontent.com/76133212/109905211-71a6c880-7c6c-11eb-907a-48e06633079a.jpg)
+![0001 (3)](https://user-images.githubusercontent.com/76133212/109905209-71a6c880-7c6c-11eb-84a9-fa7cff1a3b6a.jpg)
+![0001 (4)](https://user-images.githubusercontent.com/76133212/109905207-70759b80-7c6c-11eb-84df-7654b3e61b3c.jpg)
+![0001 (5)](https://user-images.githubusercontent.com/76133212/109905213-72d7f580-7c6c-11eb-948b-dcad33a66e9a.jpg)
+![0001 (6)](https://user-images.githubusercontent.com/76133212/109905212-723f5f00-7c6c-11eb-9b16-52ff6146e67b.jpg)
+
 
 
 3. DESARROLLO
