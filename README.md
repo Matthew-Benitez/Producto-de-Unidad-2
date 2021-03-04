@@ -95,6 +95,11 @@
 
 7. Conclusiones
 
+   - El teorema de la máxima transferencia de potencia para una impedancia de carga ZL, se da únicamente cuando el circuito está formado por la conexión en serie de una fuente de voltaje (Vs), una impedancia de salida (Zsal) y la misma impedancia de carga. De no tener esa forma, el teorema es inaplicable.
+
+   - El valor de ZL para que sea transferido la potencia máxima, es igual al complejo conjugado de Zsal, es decir, que tiene los mismos valores de las magnitudes tanto de resistencia (parte real del número complejo) como de reactancia (parte imaginaria), pero esta última debe estar con el signo opuesto.
+
+   - El teorema de Thévenin se relaciona directamente con el teorema de la máxima transferencia de potencia, ya que para poder aplicar dicho teorema de potencia, el circuito debe tener la forma del circuito de equivalente de Thévenin.
 
 
 8. Bibliografía
